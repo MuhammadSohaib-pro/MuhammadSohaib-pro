@@ -5,11 +5,6 @@
   </a>
 </h3>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=SohaibAhmad786&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=SohaibAhmad786" alt="Visitor Badge" /> 
-<img src="https://img.shields.io/github/stars/SohaibAhmad786" alt="Stars Badge"/>
-</p>
 
 
 # 💫 About Me:
