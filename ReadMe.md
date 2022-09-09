@@ -1,3 +1,17 @@
+<h1 align="center">Hi 👋, I'm Muhammad Sohaib</h1>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer...;&center=true&size=24">
+  </a>
+</h3>
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=SohaibAhmad786&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SohaibAhmad786" alt="Visitor Badge" /> 
+<img src="https://img.shields.io/github/stars/SohaibAhmad786" alt="Stars Badge"/>
+</p>
+
+
 # 💫 About Me:
 🌱 I’m currently learning : App Development in Flutter & Dart<br>2022 Goals : Efficient in Flutter & Firebase<br>How to reach me : muhammadsohaib030@gmail.com<br>💬 Ask me about : Flutter<br>
 
