@@ -8,8 +8,16 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning : App Development in Flutter & Dart<br>2022 Goals : Efficient in Flutter & Firebase<br>How to reach me : muhammadsohaib030@gmail.com<br>💬 Ask me about : Flutter<br>
+- 👨‍💻 Passionate developer with expertise in web development.
+- ⚛️ Skilled in modern frameworks like Next.js and React.
+- 📱 Strong skills in mobile app development with Flutter.
+- 🚀 Enjoy creating efficient, scalable applications.
+- 📚 Continuously learning new technologies.
 
+Check out my projects to see my work in action!
+<br>
+How to reach me : muhammadsohaib030@gmail.com
+<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100088796230827) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/soh_aib.16_2_00/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sohaib-9799b1242/) 
